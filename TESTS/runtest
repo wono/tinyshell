@@ -1,0 +1,15 @@
+#!/bin/bash
+
+DEST="lab6"
+
+SRC1=""
+SRC2=""
+SRC3=""
+SRC4=""
+SRC5=""
+
+MAIN="test.c"
+
+gcc -W -Wall -std=c11 $SRC1 $SRC2 $SRC3 $SRC4 $SRC5 $MAIN -o $DEST && \
+./$DEST $1 $2 $3 $4 $5 && \
+rm $DEST
