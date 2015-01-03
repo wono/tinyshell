@@ -1,7 +1,7 @@
 Tiny Shell
 ==========
 
-Tiny Shell is a simple and light-weight virtual shell program. You can run 1) any command-line program and 2) Input / Output redirect. It limits to use command line argumets. 
+Tiny Shell is a simple and light-weight virtual shell program. You can run 1) any command-line program and 2) Input / Output redirect. It limits to use command-line arguments. 
 
 How To Run
 ----------
