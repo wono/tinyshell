@@ -6,15 +6,19 @@ Tiny Shell is a simple and light-weight virtual shell program. You can run 1) an
 How To Run
 ----------
 Run the run script file like following:
-  ./run.sh
+
+    ./run.sh
   
 Sample Command Usage : In/Output Redirection 
 --------------------------------------------
-1. Input.txt file to the screen
+Input.txt file to the screen:
+
     cat < Input.txt
 
-2. Write messages from command-line to Output.txt
+Write messages from command-line to Output.txt:
+
     cat > Output.txt
 
-3. Write messages from Input.txt to Output.txt
+Write messages from Input.txt to Output.txt:
+
     cat < Input.txt > Output.txt
