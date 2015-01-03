@@ -11,10 +11,10 @@ Run the run script file like following:
 Sample Command Usage : In/Output Redirection 
 --------------------------------------------
 1. Input.txt file to the screen
-  cat < Input.txt
+    cat < Input.txt
 
 2. Write messages from command-line to Output.txt
-  cat > Output.txt
+    cat > Output.txt
 
 3. Write messages from Input.txt to Output.txt
-  cat < Input.txt > Output.txt
+    cat < Input.txt > Output.txt
